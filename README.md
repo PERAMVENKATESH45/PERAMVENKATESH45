@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venky</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **AWS(Cloud Computing)**
+- 🌱 I’m currently learning **FULLSTACK DEVELOPMENT**
 
 - 📫 How to reach me **2116029@saec.ac.in**
 
