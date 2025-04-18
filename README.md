@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **FULLSTACK DEVELOPMENT**
 
-- 📫 How to reach me **2116029@saec.ac.in**
+- 📫 How to reach me **peramvenkatesh97@gmail.com**
 
 - ⚡ Fun fact **Funny Guy with Knowledge**
 
