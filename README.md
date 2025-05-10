@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venky</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m currently learning **FULLSTACK DEVELOPMENT**
+- 🌱 I’m a **FULLSTACK DEVELOPER**
 
 - 📫 How to reach me **peramvenkatesh97@gmail.com**
 
