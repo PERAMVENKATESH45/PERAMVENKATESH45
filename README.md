@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Venky</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🌱 I’m a **FULLSTACK DEVELOPER**
+- 🌱 I’m a **A passionate frontend developer from India**
 
 - 📫 How to reach me **peramvenkatesh97@gmail.com**
 
-- ⚡ Fun fact **Funny Guy with Knowledge**
+- ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
